@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd4cfe3047017134e9dab47510959911, type: 3}
+  m_Name: Scene Terrain HQ
+  m_EditorClassIdentifier: 
+  active: 1
+  priority: 1
+  maxParallelSceneLoading: 1
+  loadingRange: {x: 1, y: 0, z: 1}
+  useLoadingRangeMin: 0
+  loadingRangeMin: {x: 0, y: 2, z: 2}
+  useUnloadRangeConnect: 0
+  unloadRangeConnect: {fileID: 0}
+  unloadRangeConnectParent: {fileID: 11400000, guid: 0dd9f8b912649624c9ec5665500c347a,
+    type: 2}
+  deloadingRange: {x: 1, y: 0, z: 1}
+  prefixName: Terrain
+  prefixScene: Scene Terrain HQ
+  path: Assets/NatureManufacture Assets/WorldStreamer/Huge Split Scenes/Scene Terrain
+    HQ/
+  names:
+  - Scene Terrain HQ_x0_z6.unity
+  - Scene Terrain HQ_x1_z5.unity
+  - Scene Terrain HQ_x2_z7.unity
+  - Scene Terrain HQ_x1_z6.unity
+  - Scene Terrain HQ_x4_z4.unity
+  - Scene Terrain HQ_x6_z1.unity
+  - Scene Terrain HQ_x6_z0.unity
+  - Scene Terrain HQ_x1_z0.unity
+  - Scene Terrain HQ_x5_z7.unity
+  - Scene Terrain HQ_x3_z7.unity
+  - Scene Terrain HQ_x7_z7.unity
+  - Scene Terrain HQ_x1_z2.unity
+  - Scene Terrain HQ_x0_z1.unity
+  - Scene Terrain HQ_x0_z3.unity
+  - Scene Terrain HQ_x6_z4.unity
+  - Scene Terrain HQ_x7_z3.unity
+  - Scene Terrain HQ_x7_z5.unity
+  - Scene Terrain HQ_x1_z3.unity
+  - Scene Terrain HQ_x3_z0.unity
+  - Scene Terrain HQ_x3_z6.unity
+  - Scene Terrain HQ_x1_z4.unity
+  - Scene Terrain HQ_x0_z0.unity
+  - Scene Terrain HQ_x7_z1.unity
+  - Scene Terrain HQ_x2_z1.unity
+  - Scene Terrain HQ_x5_z4.unity
+  - Scene Terrain HQ_x7_z6.unity
+  - Scene Terrain HQ_x4_z3.unity
+  - Scene Terrain HQ_x4_z1.unity
+  - Scene Terrain HQ_x5_z0.unity
+  - Scene Terrain HQ_x5_z1.unity
+  - Scene Terrain HQ_x6_z2.unity
+  - Scene Terrain HQ_x3_z5.unity
+  - Scene Terrain HQ_x0_z5.unity
+  - Scene Terrain HQ_x0_z2.unity
+  - Scene Terrain HQ_x6_z6.unity
+  - Scene Terrain HQ_x2_z6.unity
+  - Scene Terrain HQ_x2_z4.unity
+  - Scene Terrain HQ_x2_z2.unity
+  - Scene Terrain HQ_x6_z3.unity
+  - Scene Terrain HQ_x5_z3.unity
+  - Scene Terrain HQ_x1_z1.unity
+  - Scene Terrain HQ_x7_z2.unity
+  - Scene Terrain HQ_x3_z4.unity
+  - Scene Terrain HQ_x6_z7.unity
+  - Scene Terrain HQ_x4_z2.unity
+  - Scene Terrain HQ_x3_z2.unity
+  - Scene Terrain HQ_x5_z6.unity
+  - Scene Terrain HQ_x0_z7.unity
+  - Scene Terrain HQ_x4_z5.unity
+  - Scene Terrain HQ_x3_z1.unity
+  - Scene Terrain HQ_x3_z3.unity
+  - Scene Terrain HQ_x7_z0.unity
+  - Scene Terrain HQ_x5_z5.unity
+  - Scene Terrain HQ_x2_z3.unity
+  - Scene Terrain HQ_x7_z4.unity
+  - Scene Terrain HQ_x1_z7.unity
+  - Scene Terrain HQ_x6_z5.unity
+  - Scene Terrain HQ_x4_z7.unity
+  - Scene Terrain HQ_x4_z6.unity
+  - Scene Terrain HQ_x5_z2.unity
+  - Scene Terrain HQ_x2_z5.unity
+  - Scene Terrain HQ_x0_z4.unity
+  - Scene Terrain HQ_x2_z0.unity
+  - Scene Terrain HQ_x4_z0.unity
+  xSplitIs: 1
+  ySplitIs: 0
+  zSplitIs: 1
+  xSize: 500
+  ySize: 0
+  zSize: 500
+  xLimitsx: 0
+  xLimitsy: 7
+  yLimitsx: 0
+  yLimitsy: 0
+  zLimitsx: 0
+  zLimitsy: 7
+  xLimitsScenex: 0
+  xLimitsSceney: 7
+  yLimitsScenex: 0
+  yLimitsSceney: 0
+  zLimitsScenex: 0
+  zLimitsSceney: 7
+  collapsed: 1
+  layerNumber: 0
+  color: {r: 1, g: 0, b: 0, a: 1}
+  showDebug: 1
+  xLoadingLimity: 15
+  xLoadingLimitx: -8
+  xLoadingRange: 24
+  yLoadingLimity: 0
+  yLoadingLimitx: 0
+  yLoadingRange: 1
+  zLoadingLimity: 15
+  zLoadingLimitx: -8
+  zLoadingRange: 24
+  xPos: 4
+  yPos: 0
+  zPos: 4
+  currentlySceneLoading: 0
+  loadedScenes: []

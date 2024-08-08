@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: e8d3c588a8866c14a8d784f2bc5c7133
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Pants
+  - first:
+      213: 21300002
+    second: Player_Backhead
+  - first:
+      213: 21300004
+    second: Shirt_Side
+  - first:
+      213: 21300006
+    second: Shirt_Arm_Side
+  - first:
+      213: 21300008
+    second: Left_Sleeve_Front
+  - first:
+      213: 21300010
+    second: Front_Shirt
+  - first:
+      213: 21300012
+    second: Right_Sleeve_Front
+  - first:
+      213: 21300014
+    second: Player_HeadSide
+  - first:
+      213: 21300016
+    second: Player - FrontHead
+  - first:
+      213: 21300018
+    second: L_Leg_Side
+  - first:
+      213: 21300020
+    second: R_Leg_Side
+  - first:
+      213: 21300022
+    second: L_Arm
+  - first:
+      213: 21300024
+    second: R_Arm
+  - first:
+      213: 21300026
+    second: Body
+  - first:
+      213: 21300028
+    second: Player - uppdelad_14
+  - first:
+      213: 21300030
+    second: L_Leg_Front
+  - first:
+      213: 21300032
+    second: R_Leg_Front
+  - first:
+      213: 21300034
+    second: Side_Left_Arm
+  - first:
+      213: 21300036
+    second: Side_Right_Arm
+  - first:
+      213: 21300038
+    second: Front_Left_arm
+  - first:
+      213: 21300040
+    second: Front_Right_arm
+  - first:
+      213: 21300042
+    second: Player_Head_SideDown
+  - first:
+      213: 21300044
+    second: Player_Head_SideUp
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pants
+      rect:
+        serializedVersion: 2
+        x: 4350.7227
+        y: 3783.6433
+        width: 484.31836
+        height: 470.13403
+      alignment: 9
+      pivot: {x: 0.5033411, y: 0.5069968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7379d627da5a7a4a9a8ac51d3edd74f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Backhead
+      rect:
+        serializedVersion: 2
+        x: 1262.8827
+        y: 2005.9999
+        width: 969.4728
+        height: 840.07825
+      alignment: 9
+      pivot: {x: 0.49626687, y: 0.5029295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3418781edbb57a047b38bf9eb176e09a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shirt_Side
+      rect:
+        serializedVersion: 2
+        x: 3012.3013
+        y: 2942.9998
+        width: 462.35864
+        height: 830.3125
+      alignment: 9
+      pivot: {x: 0.49787915, y: 0.49860746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa93427e61fdc6b4e94acd913e9fc2d7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shirt_Arm_Side
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 3434.837
+        width: 156.48438
+        height: 297.0061
+      alignment: 9
+      pivot: {x: 0.49206188, y: 0.4988562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f53056c60b5ebf4dbf774cc9d16f2e0
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Sleeve_Front
+      rect:
+        serializedVersion: 2
+        x: 4148.3975
+        y: 3298.9814
+        width: 182.4419
+        height: 383.16675
+      alignment: 9
+      pivot: {x: 0.51853514, y: 0.5572471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad68a874690ce5d45a3717675f0965c1
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_Shirt
+      rect:
+        serializedVersion: 2
+        x: 4386.488
+        y: 2899
+        width: 471.17236
+        height: 830.3125
+      alignment: 9
+      pivot: {x: 0.5062091, y: 0.4986072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b3104204026ce459af9d780460ff3d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Sleeve_Front
+      rect:
+        serializedVersion: 2
+        x: 4839.144
+        y: 3346.4414
+        width: 160.85596
+        height: 337.14844
+      alignment: 9
+      pivot: {x: 0.5554999, y: 0.4910555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8821827ec13ac9542b18959c6a514a50
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_HeadSide
+      rect:
+        serializedVersion: 2
+        x: 2423.19
+        y: 1969.4414
+        width: 1457.3569
+        height: 925.34644
+      alignment: 9
+      pivot: {x: 0.50317806, y: 0.48906937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf87ad99441b27b43b7ac3bc5d170323
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player - FrontHead
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 1950.4414
+        width: 1023.1836
+        height: 945.05835
+      alignment: 9
+      pivot: {x: 0.49844426, y: 0.496857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ade7ec56d090e4383da591c0d93a33
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Leg_Side
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 81.999985
+        width: 129.6289
+        height: 849.89777
+      alignment: 9
+      pivot: {x: 0.49371704, y: 0.49535376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b40b86c0f003a2429e9f8de01995955
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Leg_Side
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 72
+        width: 112.53906
+        height: 854.7265
+      alignment: 9
+      pivot: {x: 0.4887192, y: 0.498405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f141e404d1bd9cb4ab08bee0dce7b1ef
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Arm
+      rect:
+        serializedVersion: 2
+        x: 4238
+        y: 791
+        width: 131
+        height: 986
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7098cb8886b4322408955672305350dd
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Arm
+      rect:
+        serializedVersion: 2
+        x: 4389
+        y: 792
+        width: 126
+        height: 986
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0c3046ebce0fe4a97dc89486f2f267
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 4600.2036
+        y: 909
+        width: 391.33154
+        height: 1023.1836
+      alignment: 9
+      pivot: {x: 0.5067222, y: 0.49893293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e160f3504af698e439889ec4b0a45668
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Leg_Front
+      rect:
+        serializedVersion: 2
+        x: 4658.266
+        y: 53.999992
+        width: 83.66211
+        height: 860.3666
+      alignment: 9
+      pivot: {x: 0.46298006, y: 0.49978697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f844942293fa7f849984194e67e7702b
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Leg_Front
+      rect:
+        serializedVersion: 2
+        x: 4857.436
+        y: 53.00001
+        width: 91.13037
+        height: 862.0508
+      alignment: 9
+      pivot: {x: 0.49449998, y: 0.4988106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cc8ffc18ceb924f8a8b1a9177229fd
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_Left_Arm
+      rect:
+        serializedVersion: 2
+        x: 3710.1104
+        y: 782.5952
+        width: 174.177
+        height: 1002.1743
+      alignment: 9
+      pivot: {x: 0.49598768, y: 0.4998179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e7efb975918f94991c30e4f6766a0b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Side_Right_Arm
+      rect:
+        serializedVersion: 2
+        x: 3941.0264
+        y: 787
+        width: 167.34082
+        height: 993.8867
+      alignment: 9
+      pivot: {x: 0.5077878, y: 0.49854788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dc8b4c53c31d8459516647ef254de3
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_Left_arm
+      rect:
+        serializedVersion: 2
+        x: 3184.0676
+        y: 945.0722
+        width: 114.98047
+        height: 969.4726
+      alignment: 9
+      pivot: {x: 0.49949887, y: 0.501229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d39ba7d553ff941b48010b62595b67
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front_Right_arm
+      rect:
+        serializedVersion: 2
+        x: 3359.0674
+        y: 947.2547
+        width: 114.98047
+        height: 969.4726
+      alignment: 9
+      pivot: {x: 0.47775605, y: 0.4979463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1561377d9045d37469bdd0b83c36e7d7
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Head_SideDown
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2017.8827
+        width: 1147.4258
+        height: 864.4923
+      alignment: 9
+      pivot: {x: 0.52552426, y: 0.49638072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bebf632a411904b8cba523a231eae1
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Head_SideUp
+      rect:
+        serializedVersion: 2
+        x: 2.6884656
+        y: 969.88275
+        width: 1192.331
+        height: 901.11334
+      alignment: 9
+      pivot: {x: 0.5147996, y: 0.49784777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eb749c7c1f99b4a819c6401ae0d8fd
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2afeeb54ee3050543a9d9696d1c32a9f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637125132397088283
+  assetBundleName: 
+  assetBundleVariant: 

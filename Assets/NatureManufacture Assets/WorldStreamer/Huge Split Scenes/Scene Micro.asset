@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd4cfe3047017134e9dab47510959911, type: 3}
+  m_Name: Scene Micro
+  m_EditorClassIdentifier: 
+  active: 1
+  priority: 5
+  maxParallelSceneLoading: 1
+  loadingRange: {x: 1, y: 0, z: 1}
+  useLoadingRangeMin: 0
+  loadingRangeMin: {x: 2, y: 2, z: 2}
+  useUnloadRangeConnect: 0
+  unloadRangeConnect: {fileID: 0}
+  unloadRangeConnectParent: {fileID: 0}
+  deloadingRange: {x: 1, y: 0, z: 1}
+  prefixName: Micro
+  prefixScene: Scene Micro
+  path: Assets/NatureManufacture Assets/WorldStreamer/Huge Split Scenes/Scene Micro/
+  names:
+  - Scene Micro_x33_z16.unity
+  - Scene Micro_x32_z17.unity
+  - Scene Micro_x32_z15.unity
+  - Scene Micro_x33_z15.unity
+  - Scene Micro_x32_z18.unity
+  - Scene Micro_x33_z17.unity
+  xSplitIs: 1
+  ySplitIs: 0
+  zSplitIs: 1
+  xSize: 80
+  ySize: 0
+  zSize: 80
+  xLimitsx: 32
+  xLimitsy: 33
+  yLimitsx: 0
+  yLimitsy: 0
+  zLimitsx: 15
+  zLimitsy: 18
+  xLimitsScenex: 32
+  xLimitsSceney: 33
+  yLimitsScenex: 0
+  yLimitsSceney: 0
+  zLimitsScenex: 15
+  zLimitsSceney: 18
+  collapsed: 0
+  layerNumber: 4
+  color: {r: 0.93186754, g: 0.93333334, b: 0.84313726, a: 1}
+  showDebug: 1
+  xLoadingLimity: 99
+  xLoadingLimitx: -50
+  xLoadingRange: 150
+  yLoadingLimity: 0
+  yLoadingLimitx: 0
+  yLoadingRange: 1
+  zLoadingLimity: 99
+  zLoadingLimitx: -50
+  zLoadingRange: 150
+  xPos: -22
+  yPos: 0
+  zPos: 20
+  currentlySceneLoading: 0
+  loadedScenes: []

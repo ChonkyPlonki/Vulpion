@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Vulpie Library
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Snout
+    m_Hash: 616789693
+    m_CategoryList:
+    - m_Name: Regular
+      m_Hash: -2050213304
+      m_Sprite: {fileID: -1237933857789756300, guid: 9ab09077e1bec3e418f6d590560de418,
+        type: 3}
+    - m_Name: Long
+      m_Hash: -1683683754
+      m_Sprite: {fileID: 3710221373646575620, guid: ac19c6b9e2282704dac788d59d246175,
+        type: 3}
+  - m_Name: Eyes
+    m_Hash: 120101800
+    m_CategoryList:
+    - m_Name: Round
+      m_Hash: 70239536
+      m_Sprite: {fileID: -5546696541669352408, guid: 9ab09077e1bec3e418f6d590560de418,
+        type: 3}
+    - m_Name: Almond
+      m_Hash: 308454029
+      m_Sprite: {fileID: 7316473526171416559, guid: ac19c6b9e2282704dac788d59d246175,
+        type: 3}
+  - m_Name: Pupils
+    m_Hash: -1610378507
+    m_CategoryList:
+    - m_Name: Round
+      m_Hash: 70239536
+      m_Sprite: {fileID: 7078674662544460054, guid: 9ab09077e1bec3e418f6d590560de418,
+        type: 3}
+    - m_Name: Almond
+      m_Hash: 308454029
+      m_Sprite: {fileID: -8617298312585725206, guid: ac19c6b9e2282704dac788d59d246175,
+        type: 3}
+  - m_Name: FaceFur
+    m_Hash: 857810367
+    m_CategoryList:
+    - m_Name: Triple
+      m_Hash: 1132476744
+      m_Sprite: {fileID: -5359872674745956601, guid: 9ab09077e1bec3e418f6d590560de418,
+        type: 3}
+    - m_Name: Triangle
+      m_Hash: 652283857
+      m_Sprite: {fileID: 7662757242109106840, guid: ac19c6b9e2282704dac788d59d246175,
+        type: 3}
+  - m_Name: EyeLids
+    m_Hash: -1460029285
+    m_CategoryList:
+    - m_Name: Round
+      m_Hash: 70239536
+      m_Sprite: {fileID: 6634852194115379618, guid: 9ab09077e1bec3e418f6d590560de418,
+        type: 3}
+    - m_Name: Almond
+      m_Hash: 308454029
+      m_Sprite: {fileID: 1993921967048863072, guid: ac19c6b9e2282704dac788d59d246175,
+        type: 3}
+  - m_Name: Ears
+    m_Hash: 278851062
+    m_CategoryList:
+    - m_Name: Petite
+      m_Hash: 961462056
+      m_Sprite: {fileID: 1791931422408106440, guid: 9ab09077e1bec3e418f6d590560de418,
+        type: 3}
+    - m_Name: Long
+      m_Hash: -1683683754
+      m_Sprite: {fileID: 5595152798835130630, guid: ac19c6b9e2282704dac788d59d246175,
+        type: 3}

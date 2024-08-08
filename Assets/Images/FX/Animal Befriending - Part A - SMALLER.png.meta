@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 7b6c75a6e9c6fe344a666c52a81cf444
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1685639184962537135
+    second: BouncyBar
+  - first:
+      213: 8370824868689005019
+    second: Feather1
+  - first:
+      213: 2983689543224852171
+    second: Feather5
+  - first:
+      213: -6043721750575611794
+    second: Emotional_Capital_Text
+  - first:
+      213: 7830498313110782373
+    second: Animal Befriending - Part A - SMALLER_4
+  - first:
+      213: -4215070260854316109
+    second: Animal Befriending - Part A - SMALLER_5
+  - first:
+      213: 1898212276348739937
+    second: Animal Befriending - Part A - SMALLER_6
+  - first:
+      213: 7759481182815394327
+    second: Animal Befriending - Part A - SMALLER_7
+  - first:
+      213: -3980344678577632377
+    second: Animal Befriending - Part A - SMALLER_8
+  - first:
+      213: -1228883402879628157
+    second: Animal Befriending - Part A - SMALLER_9
+  - first:
+      213: -5796948985490154080
+    second: Animal Befriending - Part A - SMALLER_10
+  - first:
+      213: 6219766559827997875
+    second: Animal Befriending - Part A - SMALLER_11
+  - first:
+      213: -6218490650776978158
+    second: Animal Befriending - Part A - SMALLER_12
+  - first:
+      213: 8399358810130036993
+    second: Animal Befriending - Part A - SMALLER_13
+  - first:
+      213: -9122416920681701561
+    second: Animal Befriending - Part A - SMALLER_14
+  - first:
+      213: 8474812682163287678
+    second: Animal Befriending - Part A - SMALLER_15
+  - first:
+      213: -2007528795381228258
+    second: Animal Befriending - Part A - SMALLER_16
+  - first:
+      213: -5052111421875408943
+    second: Animal Befriending - Part A - SMALLER_17
+  - first:
+      213: 2998605283330483394
+    second: Animal Befriending - Part A - SMALLER_18
+  - first:
+      213: -257679675234259727
+    second: Animal Befriending - Part A - SMALLER_19
+  - first:
+      213: 5662379491625816434
+    second: Sparkle_Text
+  - first:
+      213: -7035103450943936023
+    second: Animal Befriending - Part A - SMALLER_21
+  - first:
+      213: -141740441928473638
+    second: Animal Befriending - Part A - SMALLER_22
+  - first:
+      213: 8332841157998245529
+    second: Animal Befriending - Part A - SMALLER_23
+  - first:
+      213: 5803362053477146830
+    second: Feather3
+  - first:
+      213: -1908455792247490680
+    second: Dazzle_Text
+  - first:
+      213: -5401869496268048798
+    second: Animal Befriending - Part A - SMALLER_26
+  - first:
+      213: 1204440070000974086
+    second: Feather2
+  - first:
+      213: -2069693476082072021
+    second: Feather4
+  - first:
+      213: 1395598308449937384
+    second: Animal Befriending - Part A - SMALLER_29
+  - first:
+      213: 3151332168382711278
+    second: EmotionalCapital
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BouncyBar
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1584
+        width: 410
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6cb2768e7946710800000000000000
+      internalID: 1685639184962537135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feather1
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1156
+        width: 927
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c6371ed42b2470800000000000000
+      internalID: 8370824868689005019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feather5
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1123
+        width: 593
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcef6ffc4d1386920800000000000000
+      internalID: 2983689543224852171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emotional_Capital_Text
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1525
+        width: 288
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6083afb613602ca0800000000000000
+      internalID: -6043721750575611794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparkle_Text
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1026
+        width: 668
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27150d5a520d49e40800000000000000
+      internalID: 5662379491625816434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feather3
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 0
+        width: 349
+        height: 1102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0ac744a0fa98050800000000000000
+      internalID: 5803362053477146830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dazzle_Text
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 633
+        width: 613
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8873d81819dc385e0800000000000000
+      internalID: -1908455792247490680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feather2
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 0
+        width: 625
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60997adbcd707b010800000000000000
+      internalID: 1204440070000974086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feather4
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 0
+        width: 431
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b264f2ccfb8f643e0800000000000000
+      internalID: -2069693476082072021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmotionalCapital
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 452
+        width: 410
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee586b129e7cbbb20800000000000000
+      internalID: 3151332168382711278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

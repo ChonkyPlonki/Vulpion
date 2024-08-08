@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 967f596f6ac87dc40840f586825443af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1293853578809121170
+    second: Spore_Cicle
+  - first:
+      213: -3235463776945059525
+    second: Spore_Grass1
+  - first:
+      213: -4602644278640597393
+    second: Spore Faunca1_2
+  - first:
+      213: 5635548916997716134
+    second: Spore_Grass2
+  - first:
+      213: 4497723018207210179
+    second: Spore_Grass3
+  - first:
+      213: -6185996529272297893
+    second: Spore_Grass4
+  - first:
+      213: 2847774358075994626
+    second: Spore_Tree1
+  - first:
+      213: 6610316367687091713
+    second: Spore Faunca1_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spore_Cicle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 239
+        height: 417
+      alignment: 9
+      pivot: {x: 0.33298823, y: 0.12146538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da0736966998e54199ad1fc55a9e5f2
+      internalID: -1293853578809121170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore_Grass1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1076
+        width: 80
+        height: 174
+      alignment: 9
+      pivot: {x: 0.61339605, y: 0.13504344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce517d6f29bcb70448aed85170a61c20
+      internalID: -3235463776945059525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore_Grass2
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1060
+        width: 175
+        height: 283
+      alignment: 9
+      pivot: {x: 0.44816023, y: 0.14738631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e7940ef8d886c469eacddb8189f8dc
+      internalID: 5635548916997716134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore_Grass3
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1042
+        width: 90
+        height: 254
+      alignment: 9
+      pivot: {x: 0.58063626, y: 0.19998866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24537ec5c482ac74cacdae3e56404d4c
+      internalID: 4497723018207210179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore_Grass4
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1062
+        width: 94
+        height: 185
+      alignment: 9
+      pivot: {x: 0.3841858, y: 0.19597366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22240e37826133342affca3205680d7c
+      internalID: -6185996529272297893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spore_Tree1
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 54
+        width: 1221
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.48365358, y: 0.025685532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d4a72dac47d144da44834dac1670ec
+      internalID: 2847774358075994626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cb19b9703da62fb44bfa06aca99ae20a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

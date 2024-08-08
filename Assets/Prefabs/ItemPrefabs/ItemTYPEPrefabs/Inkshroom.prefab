@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2475860720421817219
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2475860720421817217}
+  - component: {fileID: 2475860720421817216}
+  m_Layer: 0
+  m_Name: Inkshroom
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2475860720421817217
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2475860720421817219}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2475860720421817216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2475860720421817219}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c558b2f4670e6c94188535422db6c794, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Inkshroom
+  itemType: 0
+  shortDescription: An inky mushroom. Glows in the dark.
+  longDescription: 
+  inWorldSprite: {fileID: 21300000, guid: 697d62efaea4fb14dbea8f1f6b28062b, type: 3}
+  inWorldPicked: {fileID: 21300000, guid: 523604319c3abe94fba0c55effa074d5, type: 3}
+  inventoryIconSprite: {fileID: 21300000, guid: f8a2f4828667ec74fac0d3ba73ae5f9c,
+    type: 3}
+  soundWhenPickedUp: {fileID: 8300000, guid: ba1983702a1c86f42b300ef80f2fba1c, type: 3}
+  soundWhenInvMove: {fileID: 8300000, guid: ba1983702a1c86f42b300ef80f2fba1c, type: 3}
+  soundWhenUsed: {fileID: 8300000, guid: ba1983702a1c86f42b300ef80f2fba1c, type: 3}
+  colorOfUseEffect: {r: 0, g: 0.4342618, b: 0.5471698, a: 1}
+  volumeToPlayPickUpSound: 0.5
+  volumeToPlayInvSound: 0.5
+  varyPitch: 1
+  fromPitch: 0.7
+  toPitch: 1.1
+  turnOnSpritesWhenEquip: 0
+  spriteNameOfSpritesToTurnOn: 
+  isAnimated: 0

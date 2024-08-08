@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: cafbcb0fd1cb1ba4d92ff3df1a0684dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4404373989576043458
+    second: Galaxy
+  - first:
+      213: 8712028114526549028
+    second: SkillsUI-TEMPicons_1
+  - first:
+      213: 4846454955842032038
+    second: SkillsUI-TEMPicons_2
+  - first:
+      213: 8135418029759012888
+    second: SkillsUI-TEMPicons_3
+  - first:
+      213: 5828398781998086431
+    second: SkillsUI-TEMPicons_4
+  - first:
+      213: -5220763770065615248
+    second: SkillsUI-TEMPicons_5
+  - first:
+      213: -3140283818405456634
+    second: SkillsUI-TEMPicons_6
+  - first:
+      213: -4724421826734126176
+    second: SkillsUI-TEMPicons_7
+  - first:
+      213: 2946240119570483635
+    second: SkillsUI-TEMPicons_8
+  - first:
+      213: -6255889363032499232
+    second: SkillsUI-TEMPicons_9
+  - first:
+      213: -6640727595438873722
+    second: SkillsUI-TEMPicons_10
+  - first:
+      213: -8025198460162535534
+    second: skill_unOpened
+  - first:
+      213: 1573337448107006674
+    second: skill_opened
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaxy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 1194
+        height: 531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7756dabb7f69c2c43a8f6780798e68cb
+      internalID: -4404373989576043458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_unOpened
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 25
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f271a5dfcff5244bed4fe3602e8377
+      internalID: -8025198460162535534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill_opened
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 185
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8786944fccd0d4439aa1934067010fb
+      internalID: 1573337448107006674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aca1772d87629a24f90837244c6a1260
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

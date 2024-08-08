@@ -1,0 +1,889 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd4cfe3047017134e9dab47510959911, type: 3}
+  m_Name: Scene Terrain Mobile LP
+  m_EditorClassIdentifier: 
+  active: 1
+  priority: 1
+  maxParallelSceneLoading: 1
+  loadingRange: {x: 3, y: 0, z: 3}
+  useLoadingRangeMin: 1
+  loadingRangeMin: {x: 1, y: 0, z: 1}
+  useUnloadRangeConnect: 1
+  unloadRangeConnect: {fileID: 11400000, guid: 2cf507011382eaf45936c2201d414fc7, type: 2}
+  unloadRangeConnectParent: {fileID: 0}
+  deloadingRange: {x: 3, y: 0, z: 3}
+  prefixName: LOD1_Terrain
+  prefixScene: Scene Terrain Mobile LP
+  path: Assets/NatureManufacture Assets/WorldStreamer/Mobile Split Scenes/Scene Terrain
+    Mobile LP/
+  names:
+  - Scene Terrain Mobile LP_x2_z6.unity
+  - Scene Terrain Mobile LP_x2_z7.unity
+  - Scene Terrain Mobile LP_x7_z5.unity
+  - Scene Terrain Mobile LP_x0_z0.unity
+  - Scene Terrain Mobile LP_x3_z7.unity
+  - Scene Terrain Mobile LP_x1_z3.unity
+  - Scene Terrain Mobile LP_x7_z1.unity
+  - Scene Terrain Mobile LP_x4_z6.unity
+  - Scene Terrain Mobile LP_x3_z4.unity
+  - Scene Terrain Mobile LP_x1_z2.unity
+  - Scene Terrain Mobile LP_x1_z5.unity
+  - Scene Terrain Mobile LP_x5_z7.unity
+  - Scene Terrain Mobile LP_x4_z5.unity
+  - Scene Terrain Mobile LP_x5_z6.unity
+  - Scene Terrain Mobile LP_x0_z4.unity
+  - Scene Terrain Mobile LP_x0_z3.unity
+  - Scene Terrain Mobile LP_x4_z2.unity
+  - Scene Terrain Mobile LP_x4_z3.unity
+  - Scene Terrain Mobile LP_x7_z3.unity
+  - Scene Terrain Mobile LP_x7_z0.unity
+  - Scene Terrain Mobile LP_x3_z5.unity
+  - Scene Terrain Mobile LP_x6_z0.unity
+  - Scene Terrain Mobile LP_x5_z4.unity
+  - Scene Terrain Mobile LP_x5_z1.unity
+  - Scene Terrain Mobile LP_x6_z5.unity
+  - Scene Terrain Mobile LP_x0_z1.unity
+  - Scene Terrain Mobile LP_x4_z1.unity
+  - Scene Terrain Mobile LP_x5_z0.unity
+  - Scene Terrain Mobile LP_x4_z0.unity
+  - Scene Terrain Mobile LP_x7_z4.unity
+  - Scene Terrain Mobile LP_x3_z1.unity
+  - Scene Terrain Mobile LP_x2_z1.unity
+  - Scene Terrain Mobile LP_x2_z3.unity
+  - Scene Terrain Mobile LP_x1_z1.unity
+  - Scene Terrain Mobile LP_x0_z5.unity
+  - Scene Terrain Mobile LP_x7_z2.unity
+  - Scene Terrain Mobile LP_x5_z2.unity
+  - Scene Terrain Mobile LP_x0_z2.unity
+  - Scene Terrain Mobile LP_x4_z4.unity
+  - Scene Terrain Mobile LP_x1_z7.unity
+  - Scene Terrain Mobile LP_x6_z7.unity
+  - Scene Terrain Mobile LP_x3_z3.unity
+  - Scene Terrain Mobile LP_x0_z6.unity
+  - Scene Terrain Mobile LP_x2_z0.unity
+  - Scene Terrain Mobile LP_x4_z7.unity
+  - Scene Terrain Mobile LP_x6_z2.unity
+  - Scene Terrain Mobile LP_x7_z7.unity
+  - Scene Terrain Mobile LP_x7_z6.unity
+  - Scene Terrain Mobile LP_x2_z5.unity
+  - Scene Terrain Mobile LP_x5_z5.unity
+  - Scene Terrain Mobile LP_x6_z6.unity
+  - Scene Terrain Mobile LP_x3_z0.unity
+  - Scene Terrain Mobile LP_x2_z4.unity
+  - Scene Terrain Mobile LP_x3_z6.unity
+  - Scene Terrain Mobile LP_x6_z3.unity
+  - Scene Terrain Mobile LP_x3_z2.unity
+  - Scene Terrain Mobile LP_x6_z1.unity
+  - Scene Terrain Mobile LP_x6_z4.unity
+  - Scene Terrain Mobile LP_x0_z7.unity
+  - Scene Terrain Mobile LP_x1_z6.unity
+  - Scene Terrain Mobile LP_x1_z0.unity
+  - Scene Terrain Mobile LP_x5_z3.unity
+  - Scene Terrain Mobile LP_x1_z4.unity
+  - Scene Terrain Mobile LP_x2_z2.unity
+  xSplitIs: 1
+  ySplitIs: 0
+  zSplitIs: 1
+  xSize: 500
+  ySize: 0
+  zSize: 500
+  xLimitsx: 0
+  xLimitsy: 7
+  yLimitsx: 0
+  yLimitsy: 0
+  zLimitsx: 0
+  zLimitsy: 7
+  xLimitsScenex: 0
+  xLimitsSceney: 7
+  yLimitsScenex: 0
+  yLimitsSceney: 0
+  zLimitsScenex: 0
+  zLimitsSceney: 7
+  collapsed: 1
+  layerNumber: 1
+  color: {r: 0.08638049, g: 0.23138633, b: 0.052620657, a: 255}
+  showDebug: 0
+  xLoadingLimity: 15
+  xLoadingLimitx: -8
+  xLoadingRange: 24
+  yLoadingLimity: 0
+  yLoadingLimitx: 0
+  yLoadingRange: 1
+  zLoadingLimity: 15
+  zLoadingLimitx: -8
+  zLoadingRange: 24
+  xPos: 0
+  yPos: 0
+  zPos: 3
+  currentlySceneLoading: 0
+  loadedScenes:
+  - posX: 3
+    posY: 0
+    posZ: 6
+    sceneName: Scene Terrain Mobile LP_x3_z6
+    scene:
+      m_Handle: -53040
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 3
+    basePosY: 0
+    basePosZ: 6
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 2
+    posY: 0
+    posZ: 6
+    sceneName: Scene Terrain Mobile LP_x2_z6
+    scene:
+      m_Handle: -53094
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 2
+    basePosY: 0
+    basePosZ: 6
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 1
+    posY: 0
+    posZ: 6
+    sceneName: Scene Terrain Mobile LP_x1_z6
+    scene:
+      m_Handle: -53150
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 1
+    basePosY: 0
+    basePosZ: 6
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 2
+    posY: 0
+    posZ: 2
+    sceneName: Scene Terrain Mobile LP_x2_z2
+    scene:
+      m_Handle: -53280
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 2
+    basePosY: 0
+    basePosZ: 2
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 3
+    posY: 0
+    posZ: 2
+    sceneName: Scene Terrain Mobile LP_x3_z2
+    scene:
+      m_Handle: -53284
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 3
+    basePosY: 0
+    basePosZ: 2
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 0
+    posY: 0
+    posZ: 6
+    sceneName: Scene Terrain Mobile LP_x0_z6
+    scene:
+      m_Handle: -53344
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 0
+    basePosY: 0
+    basePosZ: 6
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 0
+    posY: 0
+    posZ: 1
+    sceneName: Scene Terrain Mobile LP_x0_z1
+    scene:
+      m_Handle: -53364
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 0
+    basePosY: 0
+    basePosZ: 1
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 1
+    posY: 0
+    posZ: 1
+    sceneName: Scene Terrain Mobile LP_x1_z1
+    scene:
+      m_Handle: -53368
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 1
+    basePosY: 0
+    basePosZ: 1
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 2
+    posY: 0
+    posZ: 1
+    sceneName: Scene Terrain Mobile LP_x2_z1
+    scene:
+      m_Handle: -53372
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 2
+    basePosY: 0
+    basePosZ: 1
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 3
+    posY: 0
+    posZ: 1
+    sceneName: Scene Terrain Mobile LP_x3_z1
+    scene:
+      m_Handle: -53376
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 3
+    basePosY: 0
+    basePosZ: 1
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -1
+    posY: 0
+    posZ: 1
+    sceneName: Scene Terrain Mobile LP_x7_z1
+    scene:
+      m_Handle: -53660
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 7
+    basePosY: 0
+    basePosZ: 1
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -1
+    posY: 0
+    posZ: 6
+    sceneName: Scene Terrain Mobile LP_x7_z6
+    scene:
+      m_Handle: -53796
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 7
+    basePosY: 0
+    basePosZ: 6
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 3
+    posY: 0
+    posZ: 3
+    sceneName: Scene Terrain Mobile LP_x3_z3
+    scene:
+      m_Handle: -53828
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 3
+    basePosY: 0
+    basePosZ: 3
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 3
+    posY: 0
+    posZ: 4
+    sceneName: Scene Terrain Mobile LP_x3_z4
+    scene:
+      m_Handle: -53890
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 3
+    basePosY: 0
+    basePosZ: 4
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 3
+    posY: 0
+    posZ: 5
+    sceneName: Scene Terrain Mobile LP_x3_z5
+    scene:
+      m_Handle: -54010
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 3
+    basePosY: 0
+    basePosZ: 5
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -2
+    posY: 0
+    posZ: 6
+    sceneName: Scene Terrain Mobile LP_x6_z6
+    scene:
+      m_Handle: -54014
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 6
+    basePosY: 0
+    basePosZ: 6
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -2
+    posY: 0
+    posZ: 5
+    sceneName: Scene Terrain Mobile LP_x6_z5
+    scene:
+      m_Handle: -54016
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 6
+    basePosY: 0
+    basePosZ: 5
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -2
+    posY: 0
+    posZ: 4
+    sceneName: Scene Terrain Mobile LP_x6_z4
+    scene:
+      m_Handle: -54018
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 6
+    basePosY: 0
+    basePosZ: 4
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -2
+    posY: 0
+    posZ: 3
+    sceneName: Scene Terrain Mobile LP_x6_z3
+    scene:
+      m_Handle: -54020
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 6
+    basePosY: 0
+    basePosZ: 3
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -2
+    posY: 0
+    posZ: 2
+    sceneName: Scene Terrain Mobile LP_x6_z2
+    scene:
+      m_Handle: -54022
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 6
+    basePosY: 0
+    basePosZ: 2
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -2
+    posY: 0
+    posZ: 1
+    sceneName: Scene Terrain Mobile LP_x6_z1
+    scene:
+      m_Handle: -54024
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 6
+    basePosY: 0
+    basePosZ: 1
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 2
+    posY: 0
+    posZ: 3
+    sceneName: Scene Terrain Mobile LP_x2_z3
+    scene:
+      m_Handle: -54052
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 2
+    basePosY: 0
+    basePosZ: 3
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 2
+    posY: 0
+    posZ: 4
+    sceneName: Scene Terrain Mobile LP_x2_z4
+    scene:
+      m_Handle: -54114
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 2
+    basePosY: 0
+    basePosZ: 4
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 2
+    posY: 0
+    posZ: 5
+    sceneName: Scene Terrain Mobile LP_x2_z5
+    scene:
+      m_Handle: -54234
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 2
+    basePosY: 0
+    basePosZ: 5
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -3
+    posY: 0
+    posZ: 6
+    sceneName: Scene Terrain Mobile LP_x5_z6
+    scene:
+      m_Handle: -54306
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 5
+    basePosY: 0
+    basePosZ: 6
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -3
+    posY: 0
+    posZ: 5
+    sceneName: Scene Terrain Mobile LP_x5_z5
+    scene:
+      m_Handle: -54438
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 5
+    basePosY: 0
+    basePosZ: 5
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -3
+    posY: 0
+    posZ: 4
+    sceneName: Scene Terrain Mobile LP_x5_z4
+    scene:
+      m_Handle: -54440
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 5
+    basePosY: 0
+    basePosZ: 4
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -3
+    posY: 0
+    posZ: 3
+    sceneName: Scene Terrain Mobile LP_x5_z3
+    scene:
+      m_Handle: -54442
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 5
+    basePosY: 0
+    basePosZ: 3
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -3
+    posY: 0
+    posZ: 2
+    sceneName: Scene Terrain Mobile LP_x5_z2
+    scene:
+      m_Handle: -54444
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 5
+    basePosY: 0
+    basePosZ: 2
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -3
+    posY: 0
+    posZ: 1
+    sceneName: Scene Terrain Mobile LP_x5_z1
+    scene:
+      m_Handle: -54446
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 5
+    basePosY: 0
+    basePosZ: 1
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 1
+    posY: 0
+    posZ: 5
+    sceneName: Scene Terrain Mobile LP_x1_z5
+    scene:
+      m_Handle: -54448
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 1
+    basePosY: 0
+    basePosZ: 5
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 0
+    posY: 0
+    posZ: 5
+    sceneName: Scene Terrain Mobile LP_x0_z5
+    scene:
+      m_Handle: -54450
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 0
+    basePosY: 0
+    basePosZ: 5
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -1
+    posY: 0
+    posZ: 5
+    sceneName: Scene Terrain Mobile LP_x7_z5
+    scene:
+      m_Handle: -54452
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 7
+    basePosY: 0
+    basePosZ: 5
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -3
+    posY: 0
+    posZ: 0
+    sceneName: Scene Terrain Mobile LP_x5_z0
+    scene:
+      m_Handle: -54454
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 5
+    basePosY: 0
+    basePosZ: 0
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -2
+    posY: 0
+    posZ: 0
+    sceneName: Scene Terrain Mobile LP_x6_z0
+    scene:
+      m_Handle: -54456
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 6
+    basePosY: 0
+    basePosZ: 0
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: -1
+    posY: 0
+    posZ: 0
+    sceneName: Scene Terrain Mobile LP_x7_z0
+    scene:
+      m_Handle: -54458
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 7
+    basePosY: 0
+    basePosZ: 0
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 0
+    posY: 0
+    posZ: 0
+    sceneName: Scene Terrain Mobile LP_x0_z0
+    scene:
+      m_Handle: -54460
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 0
+    basePosY: 0
+    basePosZ: 0
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 1
+    posY: 0
+    posZ: 0
+    sceneName: Scene Terrain Mobile LP_x1_z0
+    scene:
+      m_Handle: -54462
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 1
+    basePosY: 0
+    basePosZ: 0
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 2
+    posY: 0
+    posZ: 0
+    sceneName: Scene Terrain Mobile LP_x2_z0
+    scene:
+      m_Handle: -54464
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 2
+    basePosY: 0
+    basePosZ: 0
+    sceneCollectionManager: {fileID: 11400000}
+  - posX: 3
+    posY: 0
+    posZ: 0
+    sceneName: Scene Terrain Mobile LP_x3_z0
+    scene:
+      m_Handle: -54466
+    sceneGo: {fileID: 0}
+    loaded: 1
+    loadingFinished: 1
+    posXLimitMove: 0
+    xDeloadLimit: 0
+    posYLimitMove: 0
+    yDeloadLimit: 0
+    posZLimitMove: 0
+    zDeloadLimit: 0
+    basePosX: 3
+    basePosY: 0
+    basePosZ: 0
+    sceneCollectionManager: {fileID: 11400000}

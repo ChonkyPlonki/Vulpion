@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2644893928766811732
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2644893928766811734}
+  - component: {fileID: 2644893928766811735}
+  m_Layer: 0
+  m_Name: Rasphairy
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2644893928766811734
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2644893928766811732}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2644893928766811735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2644893928766811732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c558b2f4670e6c94188535422db6c794, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Rasphairy
+  itemType: 0
+  shortDescription: A furry berry. Gives a potent beard when eaten.
+  longDescription: 
+  inWorldSprite: {fileID: 21300000, guid: c597e097f645a3046add817b9bcc5ff1, type: 3}
+  inWorldPicked: {fileID: 21300000, guid: e764b3b55e3ebeb47a3b826f3dad3b8d, type: 3}
+  inventoryIconSprite: {fileID: 21300000, guid: 6d60cd736ecb8cd458a1b2157a949eae,
+    type: 3}
+  soundWhenPickedUp: {fileID: 8300000, guid: ff59c87465ee362478cfd4910d3ffb00, type: 3}
+  soundWhenInvMove: {fileID: 8300000, guid: ff59c87465ee362478cfd4910d3ffb00, type: 3}
+  soundWhenUsed: {fileID: 8300000, guid: ff59c87465ee362478cfd4910d3ffb00, type: 3}
+  colorOfUseEffect: {r: 0.31706125, g: 0.5101164, b: 0.8962264, a: 1}
+  volumeToPlayPickUpSound: 0.5
+  volumeToPlayInvSound: 0.5
+  varyPitch: 1
+  fromPitch: 0.7
+  toPitch: 1.1
+  turnOnSpritesWhenEquip: 0
+  spriteNameOfSpritesToTurnOn: 
+  isAnimated: 0

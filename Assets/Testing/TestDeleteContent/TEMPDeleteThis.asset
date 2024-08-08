@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: TEMPDeleteThis
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Head
+    m_Hash: 130111906
+    m_CategoryList:
+    - m_Name: orig
+      m_Hash: 1922932834
+      m_Sprite: {fileID: 1435914640531404878, guid: 6eddabb7871ddb943bf39972de6eac92,
+        type: 3}
+    - m_Name: morph
+      m_Hash: -18444522
+      m_Sprite: {fileID: -4090432069665256351, guid: c263f408942fdd84082f71d70ecacf44,
+        type: 3}
+    - m_Name: morph2
+      m_Hash: -285282861
+      m_Sprite: {fileID: 3839310749165828871, guid: 1cc7f50d503adf040aa3f4ade5b15bb4,
+        type: 3}
+    - m_Name: morph3
+      m_Hash: -1711678139
+      m_Sprite: {fileID: -6694740969746854402, guid: 6332284d6df6ce643b33fb54e3f37d57,
+        type: 3}
+    - m_Name: morph4
+      m_Hash: 127748326
+      m_Sprite: {fileID: -3071896169466199409, guid: 76a408d7e5258fa40895878844ce71d1,
+        type: 3}
+    - m_Name: morph5
+      m_Hash: 1889171568
+      m_Sprite: {fileID: -6477734420340925478, guid: 8a6fb2dd42da4534fa824ed1ffc6a480,
+        type: 3}
+  - m_Name: Chest
+    m_Hash: 981834931
+    m_CategoryList:
+    - m_Name: orignB
+      m_Hash: -1553421254
+      m_Sprite: {fileID: -3657036620156081390, guid: 6eddabb7871ddb943bf39972de6eac92,
+        type: 3}
+    - m_Name: morphB
+      m_Hash: -1090806545
+      m_Sprite: {fileID: 4621885782491015439, guid: c263f408942fdd84082f71d70ecacf44,
+        type: 3}

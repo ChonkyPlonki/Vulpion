@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2475860720421817219
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2475860720421817217}
+  - component: {fileID: 2475860720421817216}
+  m_Layer: 0
+  m_Name: SunShard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2475860720421817217
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2475860720421817219}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2475860720421817216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2475860720421817219}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c558b2f4670e6c94188535422db6c794, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Sunshard
+  itemType: 4
+  shortDescription: A shard holding the glow of the Sun.
+  longDescription: 
+  inWorldSprite: {fileID: 21300000, guid: 783ace2a25d0e2d42803b3b281b83e06, type: 3}
+  inWorldPicked: {fileID: 0}
+  inventoryIconSprite: {fileID: 21300000, guid: fec7755d3ea515541ba6d148aff6c67b,
+    type: 3}
+  soundWhenPickedUp: {fileID: 8300000, guid: 955fa6c3a22a1de4da557f0dc8ea9e48, type: 3}
+  soundWhenInvMove: {fileID: 8300000, guid: d14896448f310254d875f5de8ee85736, type: 3}
+  soundWhenUsed: {fileID: 8300000, guid: d14896448f310254d875f5de8ee85736, type: 3}
+  colorOfUseEffect: {r: 0.97172886, g: 0.98039216, b: 0.6, a: 1}
+  volumeToPlayPickUpSound: 0.3
+  volumeToPlayInvSound: 0.2
+  varyPitch: 1
+  fromPitch: 0.7
+  toPitch: 1.1
+  turnOnSpritesWhenEquip: 0
+  spriteNameOfSpritesToTurnOn: 
+  isAnimated: 1

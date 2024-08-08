@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd4cfe3047017134e9dab47510959911, type: 3}
+  m_Name: Scene Medium
+  m_EditorClassIdentifier: 
+  active: 1
+  priority: 4
+  maxParallelSceneLoading: 1
+  loadingRange: {x: 2, y: 0, z: 2}
+  useLoadingRangeMin: 0
+  loadingRangeMin: {x: 2, y: 2, z: 2}
+  useUnloadRangeConnect: 0
+  unloadRangeConnect: {fileID: 0}
+  unloadRangeConnectParent: {fileID: 0}
+  deloadingRange: {x: 2, y: 0, z: 2}
+  prefixName: Medium
+  prefixScene: Scene Medium
+  path: Assets/NatureManufacture Assets/WorldStreamer/Huge Split Scenes/Scene Medium/
+  names:
+  - Scene Medium_x17_z8.unity
+  - Scene Medium_x17_z7.unity
+  - Scene Medium_x15_z7.unity
+  - Scene Medium_x15_z10.unity
+  - Scene Medium_x16_z7.unity
+  - Scene Medium_x15_z9.unity
+  - Scene Medium_x15_z8.unity
+  - Scene Medium_x16_z8.unity
+  - Scene Medium_x16_z9.unity
+  xSplitIs: 1
+  ySplitIs: 0
+  zSplitIs: 1
+  xSize: 160
+  ySize: 0
+  zSize: 160
+  xLimitsx: 15
+  xLimitsy: 17
+  yLimitsx: 0
+  yLimitsy: 0
+  zLimitsx: 7
+  zLimitsy: 10
+  xLimitsScenex: 15
+  xLimitsSceney: 17
+  yLimitsScenex: 0
+  yLimitsSceney: 0
+  zLimitsScenex: 2
+  zLimitsSceney: 3
+  collapsed: 0
+  layerNumber: 3
+  color: {r: 0, g: 1, b: 0.86376, a: 1}
+  showDebug: 1
+  xLoadingLimity: 49
+  xLoadingLimitx: -25
+  xLoadingRange: 75
+  yLoadingLimity: 0
+  yLoadingLimitx: 0
+  yLoadingRange: 1
+  zLoadingLimity: 15
+  zLoadingLimitx: -8
+  zLoadingRange: 24
+  xPos: 26
+  yPos: 0
+  zPos: -1
+  currentlySceneLoading: 0
+  loadedScenes: []

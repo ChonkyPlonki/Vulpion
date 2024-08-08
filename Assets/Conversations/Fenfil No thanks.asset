@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45adefdb09c8cd40b594c09704c296b, type: 3}
+  m_Name: Fenfil No thanks
+  m_EditorClassIdentifier: 
+  firstSpeaker: {fileID: 11400000, guid: dc6de55e9e7771548b695d15363787a4, type: 2}
+  secondSpeaker: {fileID: 11400000, guid: 054ee91587cf08b4e91460358fc91a3c, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: dc6de55e9e7771548b695d15363787a4, type: 2}
+    text: No I'm good thank you.
+  - character: {fileID: 11400000, guid: 054ee91587cf08b4e91460358fc91a3c, type: 2}
+    text: Oh, what a shame! Well my shop is always here, and your are always welcome.
+  - character: {fileID: 11400000, guid: dc6de55e9e7771548b695d15363787a4, type: 2}
+    text: Thank you man. It smells nice in here by the way, almost like drobacco.
+  - character: {fileID: 11400000, guid: 054ee91587cf08b4e91460358fc91a3c, type: 2}
+    text: Oh, I'm delighted to hear that! Thank you young Vulp, I'll give you special
+      price in the future.
+  question: {fileID: 0}
+  nextConversation: {fileID: 0}

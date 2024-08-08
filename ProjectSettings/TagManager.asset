@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ConversationBox
+  - ConversationDistance
+  - InteractableItem
+  - Floor
+  - DeepWater
+  - ShallowWater
+  - Dough
+  - Animal
+  - SceneLoadTrigger
+  - SceneStreamer
+  - ColliderStreamerManager
+  - WorldMover
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - DontStopBuilding
+  - Deletable
+  - Snappable
+  - Wall
+  - UIActivities
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Always Below Everything
+    uniqueID: 408294167
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Weather Effects
+    uniqueID: 2760110205
+    locked: 0
+  - name: WaterBelowEverything
+    uniqueID: 1330170335
+    locked: 0
+  - name: WaterStuff
+    uniqueID: 1223144555
+    locked: 0
+  - name: Inside Buildings
+    uniqueID: 4130359029
+    locked: 0
+  - name: Shadows
+    uniqueID: 749795237
+    locked: 0
+  - name: Below Player
+    uniqueID: 442235989
+    locked: 0
+  - name: Player
+    uniqueID: 518960859
+    locked: 0
+  - name: Above Player
+    uniqueID: 3530524145
+    locked: 0
+  - name: ScreenActivities
+    uniqueID: 303941809
+    locked: 0

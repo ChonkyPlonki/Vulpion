@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45adefdb09c8cd40b594c09704c296b, type: 3}
+  m_Name: TEST
+  m_EditorClassIdentifier: 
+  firstSpeaker: {fileID: 11400000, guid: 76d775789feb36e4586ae85f72e16310, type: 2}
+  secondSpeaker: {fileID: 11400000, guid: dc6de55e9e7771548b695d15363787a4, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 76d775789feb36e4586ae85f72e16310, type: 2}
+    text: 1. Hello friend! You look lovely might I say.
+  - character: {fileID: 11400000, guid: dc6de55e9e7771548b695d15363787a4, type: 2}
+    text: 2. Oh thank you very much, you look dashing too!
+  - character: {fileID: 11400000, guid: 76d775789feb36e4586ae85f72e16310, type: 2}
+    text: 3. Hello friend! You look lovely might I say.
+  - character: {fileID: 11400000, guid: dc6de55e9e7771548b695d15363787a4, type: 2}
+    text: 4. Oh thank you very much, you look dashing too!
+  - character: {fileID: 11400000, guid: 76d775789feb36e4586ae85f72e16310, type: 2}
+    text: 5. Hello friend! You look lovely might I say.
+  - character: {fileID: 11400000, guid: dc6de55e9e7771548b695d15363787a4, type: 2}
+    text: 6. Oh thank you very much, you look dashing too!
+  question: {fileID: 0}
+  nextConversation: {fileID: 0}

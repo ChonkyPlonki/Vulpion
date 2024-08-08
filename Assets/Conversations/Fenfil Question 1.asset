@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f59698e46abc66446b3d6c2000204467, type: 3}
+  m_Name: Fenfil Question 1
+  m_EditorClassIdentifier: 
+  text: Would you like to buy some?
+  choices:
+  - text: '...Yeah sure.'
+    conversation: {fileID: 11400000, guid: 9c8acd333dd30714aa49e5a7034d61c4, type: 2}
+  - text: No, I'm good thank you.
+    conversation: {fileID: 11400000, guid: 2069d17bde73ec44ebdd480228e3b9a1, type: 2}
